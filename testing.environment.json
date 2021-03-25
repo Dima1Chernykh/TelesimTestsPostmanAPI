@@ -1,0 +1,569 @@
+{
+	"id": "93d26763-27ad-4b57-bb94-31f2f7f7ed4e",
+	"name": "telesim_admin_api_tests",
+	"values": [
+		{
+			"key": "loginEmail",
+			"value": "user2@mail.com",
+			"enabled": true
+		},
+		{
+			"key": "loginPassword",
+			"value": "QWEqwe123",
+			"enabled": true
+		},
+		{
+			"key": "putFullName",
+			"value": "{{$randomFirstName}}",
+			"enabled": true
+		},
+		{
+			"key": "putFullNameOld",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "newFullName",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "addFullName",
+			"value": "{{$randomFirstName}}",
+			"enabled": true
+		},
+		{
+			"key": "addPassword",
+			"value": "{{$randomPassword}}",
+			"enabled": true
+		},
+		{
+			"key": "addEmail",
+			"value": "{{$randomEmail}}",
+			"enabled": true
+		},
+		{
+			"key": "addPhoneNumber",
+			"value": "{{$randomPhoneNumber}}",
+			"enabled": true
+		},
+		{
+			"key": "esimProfile_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "countryForCity",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "country_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "checkProfileName",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "nameOfZone",
+			"value": "{{$randomCurrencyName}}",
+			"enabled": true
+		},
+		{
+			"key": "saveNameOfZone",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "codeOfZone",
+			"value": "{{$randomCurrencyCode}}",
+			"enabled": true
+		},
+		{
+			"key": "saveCodeOfZone",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "idOfNewZone",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "packageTitle",
+			"value": "{{$randomJobArea}}",
+			"enabled": true
+		},
+		{
+			"key": "savePackageTitile",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "packageID",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "touristPlanID",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "touristPlusPlanID",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "businessPlanID",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "planTouristStatus",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "planTouristPlusStatus",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "planBusinessStatus",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "activePlan",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "24hoursValidity",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "3daysValidity",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "30daysValidity",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "24hoursValidityStatus",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "3daysValidityStatus",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "30daysValidityStatus",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "activeValidity",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "subscriptionType",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "typeSubscriptionStatus",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "prepaidType",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "typePrepaidStatus",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "activePurchaseType",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "dataOnlyType",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "dataOnlyTypeStatus",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "esimWithNumberType",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "esimWithNumberTypeStatus",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "activeDataType",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "price",
+			"value": "{{$randomInt}}",
+			"enabled": true
+		},
+		{
+			"key": "productId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "zoneId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "esimCountryId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "esimCountryName",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "esimRegionId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "esimSubregionId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "zoneFId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "dataTypeActive",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "5daysValidity",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "5daysValidityStatus",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "7daysValidity",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "7daysValidityStatus",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "365daysValidity",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "365daysValidityStatus",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "newPackageTitle",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "newDefaultPrice",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "savePackageId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "region_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "subregion_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "locationCountryName",
+			"value": "{{$randomCity}}",
+			"enabled": true
+		},
+		{
+			"key": "locationRegionName",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "locationSubregionName",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "saveLocationCountryName",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "saveLocationRegionName",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "saveLocationSubregionName",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "CountryIsoCode",
+			"value": "{{$randomCurrencyCode}}",
+			"enabled": true
+		},
+		{
+			"key": "saveCountryIsoCode",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "countryIdForCreate1",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "countryIdForCreate2",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "countryIdForCreate3",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "countryIdForCreate4",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "newCountryId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "newRegionId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "newSubregionId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "saveNewLocationCountryName",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "saveNewCountryIsoCode",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "saveNewLocationRegionName",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "saveNewLocationSubregionName",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "regionProductId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "subregionProductId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "newRegionPackageTitle",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "newRegionDefaultPrice",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "newSubregionPackageTitle",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "newSubregionDefaultPrice",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "saveRegionPackageId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "saveSubregionPackageId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "randomLocationRegionName",
+			"value": "{{$randomCity}}",
+			"enabled": true
+		},
+		{
+			"key": "randomLocationSubregionName",
+			"value": "{{$randomCity}}",
+			"enabled": true
+		},
+		{
+			"key": "newUserId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "newAdminId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "newOperatorId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "newRegiodId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "reg_email",
+			"value": "{{$randomEmail}}",
+			"enabled": true
+		},
+		{
+			"key": "reg_fullName",
+			"value": "{{$randomFirstName}}",
+			"enabled": true
+		},
+		{
+			"key": "reg_password",
+			"value": "{{$randomPassword}}",
+			"enabled": true
+		},
+		{
+			"key": "login_email",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "login_fullName",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "login_password",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "profileName",
+			"value": "{{$randomFirstName}}",
+			"enabled": true
+		},
+		{
+			"key": "checkProfileName",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "esimProfile_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "patchProfileName",
+			"value": "{{$randomFirstName}}",
+			"enabled": true
+		},
+		{
+			"key": "newProfileName",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "brand_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "category_id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "profile_id",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2021-03-19T12:03:31.460Z",
+	"_postman_exported_using": "Postman/8.0.7"
+}
